@@ -2,4 +2,4 @@
 first repository ever
 New to the world of development, jumping in the deep end with C#
 Austin TX based
-lover of fod and music
+lover of food and music
